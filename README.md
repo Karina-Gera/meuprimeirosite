@@ -1,6 +1,6 @@
 ## Portfólio Karina Gera
 
-You can use the [editor on GitHub](https://github.com/Karina-Gera/meuprimeirosite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Olá, meu nome é Karina Gera e trabalho com Marketing Digital. Meu objetivo com este portfólio é mostrar um pouco do funcionamento do Github para os alunos do curso de website com marketing digital.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
