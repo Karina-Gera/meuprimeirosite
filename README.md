@@ -1,28 +1,35 @@
 ## Portfólio Karina Gera
 
-Olá, meu nome é Karina Gera e trabalho com Marketing Digital. Meu objetivo com este portfólio é mostrar um pouco do funcionamento do Github para os alunos do curso de website com marketing digital.
+Olá, meu nome é Karina Gera, sou escritora e trabalho com Marketing Digital. Meu objetivo com este portfólio é mostrar um pouco do funcionamento do Github para os alunos do curso de website com marketing digital.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meus cursos 
+Mestrado em Linguística
+MBA em Marketing
+Pós-graduação em Arte e Criação
+Graduação em Publicidade e Propaganda
 
-### Markdown
+### Meus idiomas
+_Ingles_ - avançado
+_Espanhol_ - básico
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Meus Hobbies
+Gosto de escrever, ouvir música e andar de patins 
 
-```markdown
-Syntax highlighted code block
+**Entre em contato**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[Link](https://i.ytimg.com/vi/KQFpE-MWP0c/maxresdefault.jpg)
 
-1. Numbered
-2. List
+## Conheça meu canal no Youtube
+[Link](https://www.youtube.com/artilokinha)
 
-**Bold** and _Italic_ and `Code` text
 
+
+[Link](url) and ![Image](src)
+
+
+
+and ![Image](src)
 [Link](url) and ![Image](src)
 ```
 
