@@ -3,7 +3,7 @@
 ### Sobre mim
 Olá, meu nome é Karina Gera, sou escritora e trabalho com Marketing Digital. Meu objetivo com este portfólio é mostrar um pouco do funcionamento do Github para os alunos do curso de website com marketing digital.
 
-
+`karina`
 ### Meus cursos 
 Mestrado em Linguística
 MBA em Marketing
