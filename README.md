@@ -24,6 +24,7 @@ Gosto de escrever, ouvir música e andar de patins
 [Link](https://www.youtube.com/artilokinha)
 
 
+src https://www.jornaldafranca.com.br/wp-content/uploads/2022/03/karina-gera-livro-patricia-na-tv.jpeg
 
 [Link](url) and ![Image](src)
 
