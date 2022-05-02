@@ -17,8 +17,7 @@ Gosto de escrever, ouvir música e andar de patins
 
 **Entre em contato**
 
-
-[Link](https://i.ytimg.com/vi/KQFpE-MWP0c/maxresdefault.jpg)
+Karinagera@gmail.com
 
 ## Conheça meu canal no Youtube
 [Clique aqui](https://www.youtube.com/artilokinha)
