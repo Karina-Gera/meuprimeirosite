@@ -27,6 +27,6 @@ Karinagera@gmail.com
 ![image](https://www.jornaldafranca.com.br/wp-content/uploads/2022/03/karina-gera-livro-patricia-na-tv.jpeg)
 
 
-```markdown Karina
+`Facebook`
 
 
