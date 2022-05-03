@@ -14,6 +14,10 @@ Graduação em Publicidade e Propaganda
 _Ingles_ - avançado
 _Espanhol_ - básico
 
+_palavra_ 
+**palavra**
+`palavra`
+
 ### Meus Hobbies
 Gosto de escrever, ouvir música e andar de patins 
 
