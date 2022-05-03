@@ -28,6 +28,8 @@ Karinagera@gmail.com
 ## Conheça meu canal no Youtube
 [Clique aqui](https://www.youtube.com/artilokinha)
 
+![image](https://centermedical.vteximg.com.br/arquivos/ids/157445-1000-1000/3106-bola-ginastica-supermedy-azul-65cm.jpg?v=635441245950130000)
+
 ![image](https://www.jornaldafranca.com.br/wp-content/uploads/2022/03/karina-gera-livro-patricia-na-tv.jpeg)
 
 
